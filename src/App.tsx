@@ -386,7 +386,7 @@ export default function App() {
               {/* Profile Image Placeholder */}
               <div className="absolute inset-8 rounded-full overflow-hidden border-8 border-slate-900 shadow-2xl">
                 <img 
-                  src="assets/Hansini.jpeg" 
+                  src="/assets/Hansini.jpeg" 
                   alt="Hansini Rathnayaka" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
@@ -547,7 +547,7 @@ export default function App() {
             <ProjectCard 
               title="WanderLux - Travel & Tourism"
               description="A modern and elegant travel website UI designed to inspire exploration and simplify trip planning. WanderLuxe combines immersive visuals, intuitive navigation, and a luxury-driven aesthetic to create a seamless user experience from destination discovery to booking."
-              image="assets/ChatGPT Image Mar 18, 2026, 05_52_56 PM.png"
+              image="/assets/ChatGPT Image Mar 18, 2026, 05_52_56 PM.png"
               tools={["Figma", "UI/UX", "Web Design"]}
               features={["Immersive Visuals", "Intuitive Booking", "Luxury Aesthetic", "Destination Discovery"]}
               link="https://www.behance.net/gallery/246018133/WanderLuxe-Travel-Tourism-Website-UI-Design"
@@ -555,7 +555,7 @@ export default function App() {
             <ProjectCard 
               title="Smart Home Dashboard"
               description="A clean and intuitive smart home dashboard designed to provide seamless control and real-time insights. The interface focuses on usability, clear data visualization, and a structured layout to enhance user interaction and simplify smart device management."
-              image="assets/Black and Beige Simple Phone UI Mockup Instagram Post.png"
+              image="/assets/Black and Beige Simple Phone UI Mockup Instagram Post.png"
               tools={["Figma", "Prototyping", "UI/UX"]}
               features={["Device Control", "Real-time Insights", "Structured Layout", "Data Visualization"]}
               link="https://www.behance.net/gallery/202616373/Smart-Home-Dashboard-Website-Prototype"
@@ -563,7 +563,7 @@ export default function App() {
             <ProjectCard 
               title="LMS - Learning Management System"
               description="A comprehensive multi-portal learning management system designed for seamless educational workflows."
-              image="assets/ChatGPT Image Mar 18, 2026, 05_44_52 PM.png"
+              image="/assets/ChatGPT Image Mar 18, 2026, 05_44_52 PM.png"
               tools={["Figma", "React", "Node.js", "MySQL"]}
               features={["Multi-portal Access", "Course Management", "Student Tracking", "Resource Sharing"]}
               link="https://github.com/Hansini98-R/Learning-Management-System-LMS-"
@@ -581,7 +581,7 @@ export default function App() {
                     <ProjectCard 
                       title="Cryptolink - Trading Platform"
                       description="Cryptolink is a modern blockchain-based trading platform concept designed to deliver a fast, secure, and seamless crypto trading experience. This UI project focuses on combining cutting-edge technology with a sleek, futuristic interface."
-                      image="assets/Gray and Black Minimalist Digital Mockup Facebook Post.png"
+                      image="/assets/Gray and Black Minimalist Digital Mockup Facebook Post.png"
                       tools={["Figma", "UI/UX", "Blockchain", "Prototyping"]}
                       features={["Futuristic UI", "Real-time Trading View", "Secure Wallet Interface", "Asset Analytics"]}
                       link="https://www.behance.net/gallery/246027535/Cryptolink"
@@ -596,7 +596,7 @@ export default function App() {
                     <ProjectCard 
                       title="Finance Management System"
                       description="A sophisticated financial dashboard for transaction tracking, reporting, and analytics visualization."
-                      image="assets/ChatGPT Image Mar 18, 2026, 05_50_46 PM.png"
+                      image="/assets/ChatGPT Image Mar 18, 2026, 05_50_46 PM.png"
                       tools={["Flutter", "Firebase", "Dart", "Figma"]}
                       features={["Transaction Tracking", "Visual Analytics", "Budget Planning", "Real-time Sync"]}
                       link="https://github.com/Hansini98-R/Finance-Management-System"
