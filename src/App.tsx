@@ -351,8 +351,8 @@ export default function App() {
                 View Projects <ChevronRight size={20} />
               </a>
               <a 
-                href="/cv.pdf" 
-                download="Hansini_Rathnayaka_CV.pdf"
+                href="/assets/Hansini Rathnayaka_CV.pdf" 
+                download="Hansini Rathnayaka_CV.pdf"
                 className="w-full sm:w-auto px-6 py-3.5 sm:px-8 sm:py-4 bg-slate-900 text-white border border-white/10 rounded-2xl font-bold flex items-center justify-center gap-2 hover:bg-slate-800 transition-all"
               >
                 Download CV <Download size={20} />
